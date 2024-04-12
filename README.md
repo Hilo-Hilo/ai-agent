@@ -26,7 +26,7 @@ This repository contains a Python script designed to operate as an intelligent A
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourgithubusername/ai-agent.git
+   git clone https://github.com/Hilo-Hilo/ai-agent.git
    cd ai-agent
    ```
 2. Install required packages:
@@ -58,9 +58,6 @@ The script operates in an interactive mode, receiving inputs through the termina
 
 The script includes detailed tracking of API usage to manage costs effectively. It calculates the cost based on the number of tokens processed, converting this into a financial cost based on current rates.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Contributors
 
